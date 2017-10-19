@@ -1,0 +1,105 @@
+.caja {
+    width: 800px;
+    height: 570px;
+    padding-top: 30px;
+}
+
+.contenedor1 {
+	width: 750px;
+	height: 260px;
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+.contenedor2 {
+	width: 750px;
+	height: 280px;
+	position: relative;
+	overflow: hidden;
+	margin: 0 auto;
+}
+
+img {
+	width: 28%;
+	height: 28%;
+	float: right;
+}
+
+#foto1 img {
+	margin-right: 30px;
+	margin-top: 30px;
+}
+
+#foto2 img {
+	margin-right: 30px;
+	margin-top: 30px;
+}
+
+#foto3 img {
+	margin-right: 30px;
+	margin-top: 30px;
+}
+
+#foto4 img {
+	margin-right: 30px;
+	margin-top:40px;
+}
+
+#foto5 img {
+	margin-right: 30px;
+	margin-top: 40px;
+}
+
+#foto6 img {
+	margin-right: 30px;
+	margin-top: 40px;
+}
+
+#texto1 {
+	position: absolute;
+	bottom: 25px;
+	left: 70px;
+
+}#texto2 {
+	position: absolute;
+	bottom: 25px;
+	left: 320px;
+}
+
+#texto3 {
+	position: absolute;
+	bottom: 25px;
+	left: 550px;
+}
+
+#texto4 {
+	position: absolute;
+	bottom: 25px;
+	left: 70px;
+
+}#texto5 {
+	position: absolute;
+	bottom: 25px;
+	left: 280px;
+}
+
+#texto6 {
+	position: absolute;
+	bottom: 25px;
+	left: 550px;
+}
+
+p {
+	font-family: 'Indie Flower', cursive;
+	font-size: 25px;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #000;
+	color: #F781BE;
+}
+
+h1 {
+	font-family: 'Indie Flower', cursive;
+	font-weight: bold;
+	color: black;
+}
